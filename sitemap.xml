@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/termes-et-conditions/</loc>
+    <loc>https://spinogambino-test.fr/termes-et-conditions/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://spinogambino-test.fr/contacts/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politique-de-cookies/</loc>
+    <loc>https://spinogambino-test.fr/politique-de-cookies/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a-propos-de-nous/</loc>
+    <loc>https://spinogambino-test.fr/a-propos-de-nous/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://spinogambino-test.fr/bonus/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jeu-responsable/</loc>
+    <loc>https://spinogambino-test.fr/jeu-responsable/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politique-de-confidentialite/</loc>
+    <loc>https://spinogambino-test.fr/politique-de-confidentialite/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://spinogambino-test.fr/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://spinogambino-test.fr/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://spinogambino-test.fr/tags/</loc>
   </url>
 </urlset>
