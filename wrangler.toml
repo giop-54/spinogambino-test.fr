@@ -1,0 +1,11 @@
+name = "spinogambino-test-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambino-test.fr"
+HMAC_KEY = "2cf97eecd6ffea15f057f9051c3c150d8718c543a190655e4d47dbdd64a1d1ed"
+COOKIE_NAME = "90f"
+PLAY_PATH = "visit"
+BUTTON_ID = "p80ae639341fbb045c69247ceb6fe9625"
+GATE_SALT = "8333dfb647693dc9"
